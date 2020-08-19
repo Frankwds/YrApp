@@ -1,0 +1,20 @@
+Dataset {
+    Grid {
+     ARRAY:
+        Float32 altitude[y = 1][x = 1];
+     MAPS:
+        Float64 y[y = 1];
+        Float64 x[x = 1];
+    } altitude;
+} metpparchive/2020/08/11/met_analysis_1_0km_nordic_20200811T14Z.nc;
+---------------------------------------------
+altitude.altitude[1][1]
+[0], 1149.0
+
+altitude.y[1]
+-335322.0
+
+altitude.x[1]
+-350442.19999999995
+
+

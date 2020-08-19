@@ -1,0 +1,2563 @@
+<sites><Svelvik altitude="6" geobase="ssr" geobaseid="59973" latitude="59.6137013432054" longitude="10.4087215877006">https://www.yr.no/sted/Norge/Viken/Drammen/Svelvik/<period_tabular><tabular>
+      <time from="2020-08-19T16:00:00" period="2" to="2020-08-19T18:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSE" deg="155.0" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="5.8" name="Laber bris" />
+        <temperature unit="celsius" value="24" />
+        <pressure unit="hPa" value="1008.1" />
+      </time>
+      <time from="2020-08-19T18:00:00" period="3" to="2020-08-20T00:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSE" deg="158.9" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="5.9" name="Laber bris" />
+        <temperature unit="celsius" value="23" />
+        <pressure unit="hPa" value="1007.3" />
+      </time>
+      <time from="2020-08-20T00:00:00" period="0" to="2020-08-20T06:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="194.0" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.9" name="Svak vind" />
+        <temperature unit="celsius" value="18" />
+        <pressure unit="hPa" value="1008.2" />
+      </time>
+      <time from="2020-08-20T06:00:00" period="1" to="2020-08-20T12:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="207.8" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.3" name="Svak vind" />
+        <temperature unit="celsius" value="16" />
+        <pressure unit="hPa" value="1008.9" />
+      </time>
+      <time from="2020-08-20T12:00:00" period="2" to="2020-08-20T18:00:00">
+        
+        <symbol name="Regnbyger og torden" number="6" numberEx="6" var="06d" />
+        <precipitation maxvalue="7.0" minvalue="0" value="3.9" />
+        
+        <windDirection code="SSE" deg="163.5" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="3.3" name="Svak vind" />
+        <temperature unit="celsius" value="23" />
+        <pressure unit="hPa" value="1009.9" />
+      </time>
+      <time from="2020-08-20T18:00:00" period="3" to="2020-08-21T00:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="1.0" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="157.7" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.1" name="Lett bris" />
+        <temperature unit="celsius" value="22" />
+        <pressure unit="hPa" value="1009.9" />
+      </time>
+      <time from="2020-08-21T00:00:00" period="0" to="2020-08-21T06:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="1.4" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="184.4" name="S&#248;r" />
+        <windSpeed mps="3.1" name="Svak vind" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1011.5" />
+      </time>
+      <time from="2020-08-21T06:00:00" period="1" to="2020-08-21T12:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="10.8" minvalue="0" value="1.7" />
+        
+        <windDirection code="SSE" deg="155.0" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="3.1" name="Svak vind" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1010.4" />
+      </time>
+      <time from="2020-08-21T12:00:00" period="2" to="2020-08-21T18:00:00">
+        
+        <symbol name="Lett regn" number="9" numberEx="46" var="46" />
+        <precipitation maxvalue="19.9" minvalue="0" value="0.6" />
+        
+        <windDirection code="SSE" deg="157.5" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.0" name="Lett bris" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1009.2" />
+      </time>
+      <time from="2020-08-21T20:00:00" period="3" to="2020-08-22T02:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation maxvalue="0.5" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="175.0" name="S&#248;r" />
+        <windSpeed mps="6.0" name="Laber bris" />
+        <temperature unit="celsius" value="21" />
+        <pressure unit="hPa" value="1005.4" />
+      </time>
+      <time from="2020-08-22T02:00:00" period="0" to="2020-08-22T08:00:00">
+        
+        <symbol name="Regnbyger" number="5" numberEx="5" var="05n" />
+        <precipitation maxvalue="1.9" minvalue="0" value="1.9" />
+        
+        <windDirection code="SSW" deg="192.6" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="4.6" name="Lett bris" />
+        <temperature unit="celsius" value="17" />
+        <pressure unit="hPa" value="1005.9" />
+      </time>
+      <time from="2020-08-22T08:00:00" period="1" to="2020-08-22T14:00:00">
+        
+        <symbol name="Regnbyger" number="5" numberEx="5" var="05d" />
+        <precipitation maxvalue="2.0" minvalue="0" value="2.0" />
+        
+        <windDirection code="SSW" deg="191.6" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="5.2" name="Lett bris" />
+        <temperature unit="celsius" value="17" />
+        <pressure unit="hPa" value="1004.6" />
+      </time>
+      <time from="2020-08-22T14:00:00" period="2" to="2020-08-22T20:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02d" />
+        <precipitation maxvalue="1.2" minvalue="0" value="0" />
+        
+        <windDirection code="SSW" deg="197.9" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="6.4" name="Laber bris" />
+        <temperature unit="celsius" value="21" />
+        <pressure unit="hPa" value="1003.3" />
+      </time>
+      <time from="2020-08-22T20:00:00" period="3" to="2020-08-23T02:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="205.7" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="5.8" name="Laber bris" />
+        <temperature unit="celsius" value="18" />
+        <pressure unit="hPa" value="1001.9" />
+      </time>
+      <time from="2020-08-23T02:00:00" period="0" to="2020-08-23T08:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="210.0" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="4.1" name="Lett bris" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1001.4" />
+      </time>
+      <time from="2020-08-23T08:00:00" period="1" to="2020-08-23T14:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="WSW" deg="237.0" name="Vest-s&#248;rvest" />
+        <windSpeed mps="2.9" name="Svak vind" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="999.8" />
+      </time>
+      <time from="2020-08-23T14:00:00" period="2" to="2020-08-23T20:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SW" deg="224.1" name="S&#248;rvest" />
+        <windSpeed mps="4.2" name="Lett bris" />
+        <temperature unit="celsius" value="21" />
+        <pressure unit="hPa" value="999.8" />
+      </time>
+      <time from="2020-08-23T20:00:00" period="3" to="2020-08-24T02:00:00">
+        
+        <symbol name="Klarv&#230;r" number="1" numberEx="1" var="01n" />
+        <precipitation value="0" />
+        
+        <windDirection code="WSW" deg="249.9" name="Vest-s&#248;rvest" />
+        <windSpeed mps="3.8" name="Lett bris" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="999.8" />
+      </time>
+      <time from="2020-08-24T02:00:00" period="0" to="2020-08-24T08:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="WSW" deg="255.2" name="Vest-s&#248;rvest" />
+        <windSpeed mps="2.9" name="Svak vind" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1000.9" />
+      </time>
+      <time from="2020-08-24T08:00:00" period="1" to="2020-08-24T14:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="WSW" deg="252.0" name="Vest-s&#248;rvest" />
+        <windSpeed mps="2.8" name="Svak vind" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1001.5" />
+      </time>
+      <time from="2020-08-24T14:00:00" period="2" to="2020-08-24T20:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="W" deg="271.3" name="Vest" />
+        <windSpeed mps="3.1" name="Svak vind" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1002.8" />
+      </time>
+      <time from="2020-08-24T20:00:00" period="3" to="2020-08-25T02:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="186.1" name="S&#248;r" />
+        <windSpeed mps="3.1" name="Svak vind" />
+        <temperature unit="celsius" value="17" />
+        <pressure unit="hPa" value="1002.9" />
+      </time>
+      <time from="2020-08-25T02:00:00" period="0" to="2020-08-25T08:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="WNW" deg="292.8" name="Vest-nordvest" />
+        <windSpeed mps="2.4" name="Svak vind" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1005.1" />
+      </time>
+      <time from="2020-08-25T08:00:00" period="1" to="2020-08-25T14:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="W" deg="281.2" name="Vest" />
+        <windSpeed mps="2.0" name="Svak vind" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1007.4" />
+      </time>
+      <time from="2020-08-25T14:00:00" period="2" to="2020-08-25T20:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="NNW" deg="340.1" name="Nord-nordvest" />
+        <windSpeed mps="2.1" name="Svak vind" />
+        <temperature unit="celsius" value="18" />
+        <pressure unit="hPa" value="1008.7" />
+      </time>
+      <time from="2020-08-25T20:00:00" period="3" to="2020-08-26T02:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation maxvalue="1.3" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="154.1" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="1.7" name="Svak vind" />
+        <temperature unit="celsius" value="17" />
+        <pressure unit="hPa" value="1006.6" />
+      </time>
+      <time from="2020-08-26T02:00:00" period="0" to="2020-08-26T08:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation maxvalue="2.1" minvalue="0" value="0" />
+        
+        <windDirection code="NNW" deg="340.3" name="Nord-nordvest" />
+        <windSpeed mps="1.5" name="Flau vind" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1008.4" />
+      </time>
+      <time from="2020-08-26T08:00:00" period="1" to="2020-08-26T14:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation maxvalue="2.4" minvalue="0" value="0" />
+        
+        <windDirection code="NNW" deg="335.2" name="Nord-nordvest" />
+        <windSpeed mps="2.2" name="Svak vind" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1008.9" />
+      </time>
+      <time from="2020-08-26T14:00:00" period="2" to="2020-08-26T20:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation maxvalue="1.7" minvalue="0" value="0" />
+        
+        <windDirection code="SSW" deg="194.3" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.5" name="Svak vind" />
+        <temperature unit="celsius" value="18" />
+        <pressure unit="hPa" value="1008.3" />
+      </time>
+      <time from="2020-08-26T20:00:00" period="3" to="2020-08-27T02:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation maxvalue="1.0" minvalue="0" value="0" />
+        
+        <windDirection code="NNE" deg="16.6" name="Nord-nord&#248;st" />
+        <windSpeed mps="2.0" name="Svak vind" />
+        <temperature unit="celsius" value="17" />
+        <pressure unit="hPa" value="1006.6" />
+      </time>
+      <time from="2020-08-27T02:00:00" period="0" to="2020-08-27T08:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation maxvalue="0.6" minvalue="0" value="0" />
+        
+        <windDirection code="N" deg="3.1" name="Nord" />
+        <windSpeed mps="1.7" name="Svak vind" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1009.0" />
+      </time>
+      <time from="2020-08-27T08:00:00" period="1" to="2020-08-27T14:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="NW" deg="316.3" name="Nordvest" />
+        <windSpeed mps="2.6" name="Svak vind" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1005.7" />
+      </time>
+      <time from="2020-08-27T14:00:00" period="2" to="2020-08-27T20:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="N" deg="8.6" name="Nord" />
+        <windSpeed mps="3.4" name="Lett bris" />
+        <temperature unit="celsius" value="18" />
+        <pressure unit="hPa" value="1008.3" />
+      </time>
+      <time from="2020-08-27T20:00:00" period="3" to="2020-08-28T02:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="NNW" deg="339.9" name="Nord-nordvest" />
+        <windSpeed mps="2.3" name="Svak vind" />
+        <temperature unit="celsius" value="17" />
+        <pressure unit="hPa" value="1009.0" />
+      </time>
+      <time from="2020-08-28T02:00:00" period="0" to="2020-08-28T08:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="NW" deg="307.8" name="Nordvest" />
+        <windSpeed mps="1.8" name="Svak vind" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1008.6" />
+      </time>
+      <time from="2020-08-28T08:00:00" period="1" to="2020-08-28T14:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="NE" deg="48.4" name="Nord&#248;st" />
+        <windSpeed mps="2.5" name="Svak vind" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1009.8" />
+      </time>
+      <time from="2020-08-28T14:00:00" period="2" to="2020-08-28T20:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="ESE" deg="122.2" name="&#216;st-s&#248;r&#248;st" />
+        <windSpeed mps="2.9" name="Svak vind" />
+        <temperature unit="celsius" value="18" />
+        <pressure unit="hPa" value="1008.4" />
+      </time>
+    </tabular>
+  </period_tabular><hourly_tabular><tabular>
+      <time from="2020-08-19T16:00:00" to="2020-08-19T17:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSE" deg="155.0" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="5.8" name="Laber bris" />
+        <temperature unit="celsius" value="24" />
+        <pressure unit="hPa" value="1008.1" />
+      </time>
+      <time from="2020-08-19T17:00:00" to="2020-08-19T18:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSE" deg="152.4" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="5.5" name="Laber bris" />
+        <temperature unit="celsius" value="24" />
+        <pressure unit="hPa" value="1007.6" />
+      </time>
+      <time from="2020-08-19T18:00:00" to="2020-08-19T19:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSE" deg="158.9" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="5.9" name="Laber bris" />
+        <temperature unit="celsius" value="23" />
+        <pressure unit="hPa" value="1007.3" />
+      </time>
+      <time from="2020-08-19T19:00:00" to="2020-08-19T20:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSE" deg="161.9" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="5.7" name="Laber bris" />
+        <temperature unit="celsius" value="22" />
+        <pressure unit="hPa" value="1007.4" />
+      </time>
+      <time from="2020-08-19T20:00:00" to="2020-08-19T21:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="169.6" name="S&#248;r" />
+        <windSpeed mps="5.4" name="Lett bris" />
+        <temperature unit="celsius" value="21" />
+        <pressure unit="hPa" value="1007.5" />
+      </time>
+      <time from="2020-08-19T21:00:00" to="2020-08-19T22:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="173.4" name="S&#248;r" />
+        <windSpeed mps="4.9" name="Lett bris" />
+        <temperature unit="celsius" value="20" />
+        <pressure unit="hPa" value="1008.1" />
+      </time>
+      <time from="2020-08-19T22:00:00" to="2020-08-19T23:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="174.9" name="S&#248;r" />
+        <windSpeed mps="4.1" name="Lett bris" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1008.1" />
+      </time>
+      <time from="2020-08-19T23:00:00" to="2020-08-20T00:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="185.7" name="S&#248;r" />
+        <windSpeed mps="3.8" name="Lett bris" />
+        <temperature unit="celsius" value="18" />
+        <pressure unit="hPa" value="1008.1" />
+      </time>
+      <time from="2020-08-20T00:00:00" to="2020-08-20T01:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="194.0" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.9" name="Svak vind" />
+        <temperature unit="celsius" value="18" />
+        <pressure unit="hPa" value="1008.2" />
+      </time>
+      <time from="2020-08-20T01:00:00" to="2020-08-20T02:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="184.4" name="S&#248;r" />
+        <windSpeed mps="2.4" name="Svak vind" />
+        <temperature unit="celsius" value="17" />
+        <pressure unit="hPa" value="1008.4" />
+      </time>
+      <time from="2020-08-20T02:00:00" to="2020-08-20T03:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="198.3" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.5" name="Svak vind" />
+        <temperature unit="celsius" value="17" />
+        <pressure unit="hPa" value="1008.4" />
+      </time>
+      <time from="2020-08-20T03:00:00" to="2020-08-20T04:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="199.4" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.7" name="Svak vind" />
+        <temperature unit="celsius" value="16" />
+        <pressure unit="hPa" value="1008.4" />
+      </time>
+      <time from="2020-08-20T04:00:00" to="2020-08-20T05:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="200.2" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.5" name="Svak vind" />
+        <temperature unit="celsius" value="16" />
+        <pressure unit="hPa" value="1008.4" />
+      </time>
+      <time from="2020-08-20T05:00:00" to="2020-08-20T06:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="204.0" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.3" name="Svak vind" />
+        <temperature unit="celsius" value="16" />
+        <pressure unit="hPa" value="1008.7" />
+      </time>
+      <time from="2020-08-20T06:00:00" to="2020-08-20T07:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="207.8" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.3" name="Svak vind" />
+        <temperature unit="celsius" value="16" />
+        <pressure unit="hPa" value="1008.9" />
+      </time>
+      <time from="2020-08-20T07:00:00" to="2020-08-20T08:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="202.2" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.6" name="Svak vind" />
+        <temperature unit="celsius" value="17" />
+        <pressure unit="hPa" value="1008.8" />
+      </time>
+      <time from="2020-08-20T08:00:00" to="2020-08-20T09:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="192.9" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.9" name="Svak vind" />
+        <temperature unit="celsius" value="18" />
+        <pressure unit="hPa" value="1009.0" />
+      </time>
+      <time from="2020-08-20T09:00:00" to="2020-08-20T10:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02d" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="186.8" name="S&#248;r" />
+        <windSpeed mps="2.7" name="Svak vind" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1009.3" />
+      </time>
+      <time from="2020-08-20T10:00:00" to="2020-08-20T11:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="175.4" name="S&#248;r" />
+        <windSpeed mps="3.8" name="Lett bris" />
+        <temperature unit="celsius" value="21" />
+        <pressure unit="hPa" value="1009.7" />
+      </time>
+      <time from="2020-08-20T11:00:00" to="2020-08-20T12:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="171.0" name="S&#248;r" />
+        <windSpeed mps="3.6" name="Lett bris" />
+        <temperature unit="celsius" value="22" />
+        <pressure unit="hPa" value="1009.7" />
+      </time>
+      <time from="2020-08-20T12:00:00" to="2020-08-20T13:00:00">
+        
+        <symbol name="Regn og torden" number="22" numberEx="22" var="22" />
+        <precipitation maxvalue="4.1" minvalue="0" value="0.2" />
+        
+        <windDirection code="SSE" deg="163.5" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="3.3" name="Svak vind" />
+        <temperature unit="celsius" value="23" />
+        <pressure unit="hPa" value="1009.9" />
+      </time>
+      <time from="2020-08-20T13:00:00" to="2020-08-20T14:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation maxvalue="1.9" minvalue="0" value="0" />
+        
+        <windDirection code="SE" deg="128.7" name="S&#248;r&#248;st" />
+        <windSpeed mps="5.4" name="Lett bris" />
+        <temperature unit="celsius" value="21" />
+        <pressure unit="hPa" value="1010.5" />
+      </time>
+      <time from="2020-08-20T14:00:00" to="2020-08-20T15:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation maxvalue="0.8" minvalue="0" value="0" />
+        
+        <windDirection code="SSW" deg="198.9" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.2" name="Svak vind" />
+        <temperature unit="celsius" value="18" />
+        <pressure unit="hPa" value="1010.6" />
+      </time>
+      <time from="2020-08-20T15:00:00" to="2020-08-20T16:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02d" />
+        <precipitation maxvalue="0.2" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="156.5" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="2.6" name="Svak vind" />
+        <temperature unit="celsius" value="20" />
+        <pressure unit="hPa" value="1010.5" />
+      </time>
+      <time from="2020-08-20T16:00:00" to="2020-08-20T17:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSE" deg="161.7" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.7" name="Lett bris" />
+        <temperature unit="celsius" value="22" />
+        <pressure unit="hPa" value="1010.1" />
+      </time>
+      <time from="2020-08-20T17:00:00" to="2020-08-20T18:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSE" deg="159.6" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="5.0" name="Lett bris" />
+        <temperature unit="celsius" value="22" />
+        <pressure unit="hPa" value="1010.0" />
+      </time>
+      <time from="2020-08-20T18:00:00" to="2020-08-20T19:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSE" deg="157.7" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.1" name="Lett bris" />
+        <temperature unit="celsius" value="22" />
+        <pressure unit="hPa" value="1009.9" />
+      </time>
+      <time from="2020-08-20T19:00:00" to="2020-08-20T20:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSE" deg="158.8" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="3.9" name="Lett bris" />
+        <temperature unit="celsius" value="22" />
+        <pressure unit="hPa" value="1009.7" />
+      </time>
+      <time from="2020-08-20T20:00:00" to="2020-08-20T21:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.3" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="166.5" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="3.3" name="Svak vind" />
+        <temperature unit="celsius" value="21" />
+        <pressure unit="hPa" value="1009.9" />
+      </time>
+      <time from="2020-08-20T21:00:00" to="2020-08-20T22:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.3" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="173.2" name="S&#248;r" />
+        <windSpeed mps="2.7" name="Svak vind" />
+        <temperature unit="celsius" value="20" />
+        <pressure unit="hPa" value="1010.2" />
+      </time>
+      <time from="2020-08-20T22:00:00" to="2020-08-20T23:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.2" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="178.6" name="S&#248;r" />
+        <windSpeed mps="2.9" name="Svak vind" />
+        <temperature unit="celsius" value="20" />
+        <pressure unit="hPa" value="1010.6" />
+      </time>
+      <time from="2020-08-20T23:00:00" to="2020-08-21T00:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.4" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="186.2" name="S&#248;r" />
+        <windSpeed mps="3.2" name="Svak vind" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1011.1" />
+      </time>
+      <time from="2020-08-21T00:00:00" to="2020-08-21T01:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.3" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="184.4" name="S&#248;r" />
+        <windSpeed mps="3.1" name="Svak vind" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1011.5" />
+      </time>
+      <time from="2020-08-21T01:00:00" to="2020-08-21T02:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.3" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="190.4" name="S&#248;r" />
+        <windSpeed mps="2.7" name="Svak vind" />
+        <temperature unit="celsius" value="18" />
+        <pressure unit="hPa" value="1011.6" />
+      </time>
+      <time from="2020-08-21T02:00:00" to="2020-08-21T03:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.3" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="181.1" name="S&#248;r" />
+        <windSpeed mps="2.9" name="Svak vind" />
+        <temperature unit="celsius" value="18" />
+        <pressure unit="hPa" value="1011.5" />
+      </time>
+      <time from="2020-08-21T03:00:00" to="2020-08-21T04:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.2" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="173.2" name="S&#248;r" />
+        <windSpeed mps="4.1" name="Lett bris" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1011.2" />
+      </time>
+      <time from="2020-08-21T04:00:00" to="2020-08-21T05:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.3" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="171.9" name="S&#248;r" />
+        <windSpeed mps="3.3" name="Svak vind" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1010.8" />
+      </time>
+      <time from="2020-08-21T05:00:00" to="2020-08-21T06:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.2" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="152.3" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="3.8" name="Lett bris" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1010.5" />
+      </time>
+      <time from="2020-08-21T06:00:00" to="2020-08-21T07:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSE" deg="155.0" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="3.1" name="Svak vind" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1010.4" />
+      </time>
+      <time from="2020-08-21T07:00:00" to="2020-08-21T08:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSE" deg="148.2" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="3.0" name="Svak vind" />
+        <temperature unit="celsius" value="18" />
+        <pressure unit="hPa" value="1010.3" />
+      </time>
+      <time from="2020-08-21T08:00:00" to="2020-08-21T09:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.2" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="160.7" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="2.7" name="Svak vind" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1010.1" />
+      </time>
+      <time from="2020-08-21T09:00:00" to="2020-08-21T10:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="4.7" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="158.0" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="2.9" name="Svak vind" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1010.1" />
+      </time>
+      <time from="2020-08-21T10:00:00" to="2020-08-21T11:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="5.0" minvalue="0" value="0.7" />
+        
+        <windDirection code="SSE" deg="152.4" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.4" name="Lett bris" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1009.9" />
+      </time>
+      <time from="2020-08-21T11:00:00" to="2020-08-21T12:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="2.7" minvalue="0" value="0.9" />
+        
+        <windDirection code="SE" deg="134.1" name="S&#248;r&#248;st" />
+        <windSpeed mps="3.3" name="Svak vind" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1009.4" />
+      </time>
+      <time from="2020-08-21T12:00:00" to="2020-08-21T13:00:00">
+        
+        <symbol name="Lett regn" number="9" numberEx="46" var="46" />
+        <precipitation maxvalue="8.3" minvalue="0" value="0.2" />
+        
+        <windDirection code="SSE" deg="157.5" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.0" name="Lett bris" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1009.2" />
+      </time>
+      <time from="2020-08-21T13:00:00" to="2020-08-21T14:00:00">
+        
+        <symbol name="Lett regn" number="9" numberEx="46" var="46" />
+        <precipitation maxvalue="7.9" minvalue="0" value="0.2" />
+        
+        <windDirection code="SSE" deg="167.4" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.6" name="Lett bris" />
+        <temperature unit="celsius" value="20" />
+        <pressure unit="hPa" value="1009.0" />
+      </time>
+      <time from="2020-08-21T14:00:00" to="2020-08-21T15:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="1.7" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="165.4" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="3.5" name="Lett bris" />
+        <temperature unit="celsius" value="20" />
+        <pressure unit="hPa" value="1008.6" />
+      </time>
+      <time from="2020-08-21T15:00:00" to="2020-08-21T16:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="3.2" minvalue="0" value="0" />
+        
+        <windDirection code="SE" deg="145.6" name="S&#248;r&#248;st" />
+        <windSpeed mps="2.3" name="Svak vind" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1008.0" />
+      </time>
+    </tabular>
+  </hourly_tabular></Svelvik><Heddersvatn altitude="1138" geobase="ssr" geobaseid="68681" latitude="59.8357711388003" longitude="8.73613507629037">https://www.yr.no/sted/Norge/Vestfold_og_Telemark/Tinn/Heddersvatn/<period_tabular><tabular>
+      <time from="2020-08-19T16:00:00" period="2" to="2020-08-19T18:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation maxvalue="3.1" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="176.5" name="S&#248;r" />
+        <windSpeed mps="5.2" name="Lett bris" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1008.2" />
+      </time>
+      <time from="2020-08-19T18:00:00" period="3" to="2020-08-20T00:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="7.6" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="181.8" name="S&#248;r" />
+        <windSpeed mps="4.1" name="Lett bris" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1007.6" />
+      </time>
+      <time from="2020-08-20T00:00:00" period="0" to="2020-08-20T06:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="197.3" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.3" name="Svak vind" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1008.4" />
+      </time>
+      <time from="2020-08-20T06:00:00" period="1" to="2020-08-20T12:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="213.7" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="3.0" name="Svak vind" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1008.9" />
+      </time>
+      <time from="2020-08-20T12:00:00" period="2" to="2020-08-20T18:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="4.4" minvalue="0" value="1.6" />
+        
+        <windDirection code="S" deg="171.4" name="S&#248;r" />
+        <windSpeed mps="4.8" name="Lett bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1010.4" />
+      </time>
+      <time from="2020-08-20T18:00:00" period="3" to="2020-08-21T00:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="3.9" minvalue="0.6" value="2.9" />
+        
+        <windDirection code="SSW" deg="198.5" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="6.7" name="Laber bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1010.2" />
+      </time>
+      <time from="2020-08-21T00:00:00" period="0" to="2020-08-21T06:00:00">
+        
+        <symbol name="Lett regn" number="9" numberEx="46" var="46" />
+        <precipitation maxvalue="1.4" minvalue="0" value="0.5" />
+        
+        <windDirection code="SSE" deg="166.4" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="5.2" name="Lett bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1011.2" />
+      </time>
+      <time from="2020-08-21T06:00:00" period="1" to="2020-08-21T12:00:00">
+        
+        <symbol name="Kraftig regn" number="10" numberEx="10" var="10" />
+        <precipitation maxvalue="17.7" minvalue="1.1" value="12.5" />
+        
+        <windDirection code="SSE" deg="165.6" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="6.2" name="Laber bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1009.9" />
+      </time>
+      <time from="2020-08-21T12:00:00" period="2" to="2020-08-21T18:00:00">
+        
+        <symbol name="Lett regn og torden" number="22" numberEx="30" var="30" />
+        <precipitation maxvalue="8.0" minvalue="0" value="0.6" />
+        
+        <windDirection code="SSE" deg="165.5" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="9.1" name="Frisk bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1008.4" />
+      </time>
+      <time from="2020-08-21T20:00:00" period="3" to="2020-08-22T02:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="1.9" minvalue="0" value="1.9" />
+        
+        <windDirection code="S" deg="185.9" name="S&#248;r" />
+        <windSpeed mps="8.2" name="Frisk bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1005.1" />
+      </time>
+      <time from="2020-08-22T02:00:00" period="0" to="2020-08-22T08:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="3.7" minvalue="0.2" value="2.6" />
+        
+        <windDirection code="SSE" deg="168.7" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="5.9" name="Laber bris" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1004.9" />
+      </time>
+      <time from="2020-08-22T08:00:00" period="1" to="2020-08-22T14:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="5.1" minvalue="0.3" value="3.4" />
+        
+        <windDirection code="SSE" deg="161.4" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="7.2" name="Laber bris" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1002.6" />
+      </time>
+      <time from="2020-08-22T14:00:00" period="2" to="2020-08-22T20:00:00">
+        
+        <symbol name="Regnbyger" number="5" numberEx="5" var="05d" />
+        <precipitation maxvalue="3.9" minvalue="0" value="2.8" />
+        
+        <windDirection code="SSW" deg="193.8" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="6.7" name="Laber bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1002.0" />
+      </time>
+      <time from="2020-08-22T20:00:00" period="3" to="2020-08-23T02:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="199.4" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="6.4" name="Laber bris" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1001.0" />
+      </time>
+      <time from="2020-08-23T02:00:00" period="0" to="2020-08-23T08:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="196.7" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="4.8" name="Lett bris" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1001.0" />
+      </time>
+      <time from="2020-08-23T08:00:00" period="1" to="2020-08-23T14:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SW" deg="221.9" name="S&#248;rvest" />
+        <windSpeed mps="5.4" name="Lett bris" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1000.0" />
+      </time>
+      <time from="2020-08-23T14:00:00" period="2" to="2020-08-23T20:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02d" />
+        <precipitation value="0" />
+        
+        <windDirection code="W" deg="261.5" name="Vest" />
+        <windSpeed mps="7.9" name="Laber bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1000.2" />
+      </time>
+      <time from="2020-08-23T20:00:00" period="3" to="2020-08-24T02:00:00">
+        
+        <symbol name="Klarv&#230;r" number="1" numberEx="1" var="01n" />
+        <precipitation value="0" />
+        
+        <windDirection code="W" deg="265.4" name="Vest" />
+        <windSpeed mps="7.3" name="Laber bris" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1001.4" />
+      </time>
+      <time from="2020-08-24T02:00:00" period="0" to="2020-08-24T08:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="WSW" deg="246.8" name="Vest-s&#248;rvest" />
+        <windSpeed mps="6.8" name="Laber bris" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1003.1" />
+      </time>
+      <time from="2020-08-24T08:00:00" period="1" to="2020-08-24T14:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="W" deg="268.6" name="Vest" />
+        <windSpeed mps="7.2" name="Laber bris" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1003.7" />
+      </time>
+      <time from="2020-08-24T14:00:00" period="2" to="2020-08-24T20:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="WNW" deg="286.4" name="Vest-nordvest" />
+        <windSpeed mps="7.7" name="Laber bris" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1003.9" />
+      </time>
+      <time from="2020-08-24T20:00:00" period="3" to="2020-08-25T02:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="W" deg="275.3" name="Vest" />
+        <windSpeed mps="6.5" name="Laber bris" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1004.4" />
+      </time>
+      <time from="2020-08-25T02:00:00" period="0" to="2020-08-25T08:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="WNW" deg="294.6" name="Vest-nordvest" />
+        <windSpeed mps="6.2" name="Laber bris" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1006.4" />
+      </time>
+      <time from="2020-08-25T08:00:00" period="1" to="2020-08-25T14:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="W" deg="268.1" name="Vest" />
+        <windSpeed mps="5.2" name="Lett bris" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1008.3" />
+      </time>
+      <time from="2020-08-25T14:00:00" period="2" to="2020-08-25T20:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation maxvalue="0.7" minvalue="0" value="0" />
+        
+        <windDirection code="SSW" deg="195.3" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="4.3" name="Lett bris" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1008.1" />
+      </time>
+      <time from="2020-08-25T20:00:00" period="3" to="2020-08-26T02:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation maxvalue="0.8" minvalue="0" value="0" />
+        
+        <windDirection code="WNW" deg="299.2" name="Vest-nordvest" />
+        <windSpeed mps="3.2" name="Svak vind" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1007.0" />
+      </time>
+      <time from="2020-08-26T02:00:00" period="0" to="2020-08-26T08:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="1.0" minvalue="0" value="0" />
+        
+        <windDirection code="NNW" deg="345.8" name="Nord-nordvest" />
+        <windSpeed mps="3.1" name="Svak vind" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1008.9" />
+      </time>
+      <time from="2020-08-26T08:00:00" period="1" to="2020-08-26T14:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="3.4" minvalue="0" value="3.4" />
+        
+        <windDirection code="SSE" deg="152.5" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.4" name="Lett bris" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1004.1" />
+      </time>
+      <time from="2020-08-26T14:00:00" period="2" to="2020-08-26T20:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="2.4" minvalue="0" value="2.2" />
+        
+        <windDirection code="SSW" deg="202.9" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="4.9" name="Lett bris" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1003.7" />
+      </time>
+      <time from="2020-08-26T20:00:00" period="3" to="2020-08-27T02:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="1.3" minvalue="0" value="0" />
+        
+        <windDirection code="SSW" deg="197.3" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="3.0" name="Svak vind" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1007.3" />
+      </time>
+      <time from="2020-08-27T02:00:00" period="0" to="2020-08-27T08:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.5" minvalue="0" value="0" />
+        
+        <windDirection code="NNW" deg="341.3" name="Nord-nordvest" />
+        <windSpeed mps="3.2" name="Svak vind" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1008.0" />
+      </time>
+      <time from="2020-08-27T08:00:00" period="1" to="2020-08-27T14:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.6" minvalue="0" value="0" />
+        
+        <windDirection code="N" deg="358.5" name="Nord" />
+        <windSpeed mps="4.8" name="Lett bris" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1008.1" />
+      </time>
+      <time from="2020-08-27T14:00:00" period="2" to="2020-08-27T20:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="NE" deg="45.1" name="Nord&#248;st" />
+        <windSpeed mps="5.1" name="Lett bris" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1007.8" />
+      </time>
+      <time from="2020-08-27T20:00:00" period="3" to="2020-08-28T02:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="WNW" deg="293.0" name="Vest-nordvest" />
+        <windSpeed mps="3.5" name="Lett bris" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1010.8" />
+      </time>
+      <time from="2020-08-28T02:00:00" period="0" to="2020-08-28T08:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="NNW" deg="328.6" name="Nord-nordvest" />
+        <windSpeed mps="3.5" name="Lett bris" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1009.8" />
+      </time>
+      <time from="2020-08-28T08:00:00" period="1" to="2020-08-28T14:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="E" deg="80.0" name="&#216;st" />
+        <windSpeed mps="4.4" name="Lett bris" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1010.2" />
+      </time>
+      <time from="2020-08-28T14:00:00" period="2" to="2020-08-28T20:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="NE" deg="44.0" name="Nord&#248;st" />
+        <windSpeed mps="4.0" name="Lett bris" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1010.1" />
+      </time>
+    </tabular>
+  </period_tabular><hourly_tabular><tabular>
+      <time from="2020-08-19T16:00:00" to="2020-08-19T17:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation maxvalue="3.1" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="176.5" name="S&#248;r" />
+        <windSpeed mps="5.2" name="Lett bris" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1008.2" />
+      </time>
+      <time from="2020-08-19T17:00:00" to="2020-08-19T18:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation maxvalue="1.6" minvalue="0" value="0" />
+        
+        <windDirection code="SSW" deg="196.4" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="4.6" name="Lett bris" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1008.2" />
+      </time>
+      <time from="2020-08-19T18:00:00" to="2020-08-19T19:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="2.2" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="181.8" name="S&#248;r" />
+        <windSpeed mps="4.1" name="Lett bris" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1007.6" />
+      </time>
+      <time from="2020-08-19T19:00:00" to="2020-08-19T20:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="1.2" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="160.7" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="3.6" name="Lett bris" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1007.7" />
+      </time>
+      <time from="2020-08-19T20:00:00" to="2020-08-19T21:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="1.1" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="171.1" name="S&#248;r" />
+        <windSpeed mps="4.1" name="Lett bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1007.8" />
+      </time>
+      <time from="2020-08-19T21:00:00" to="2020-08-19T22:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.6" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="180.8" name="S&#248;r" />
+        <windSpeed mps="3.4" name="Lett bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1008.0" />
+      </time>
+      <time from="2020-08-19T22:00:00" to="2020-08-19T23:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="191.4" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.1" name="Svak vind" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1008.5" />
+      </time>
+      <time from="2020-08-19T23:00:00" to="2020-08-20T00:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="194.2" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.7" name="Svak vind" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1008.3" />
+      </time>
+      <time from="2020-08-20T00:00:00" to="2020-08-20T01:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="197.3" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.3" name="Svak vind" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1008.4" />
+      </time>
+      <time from="2020-08-20T01:00:00" to="2020-08-20T02:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="213.4" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.5" name="Svak vind" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1008.3" />
+      </time>
+      <time from="2020-08-20T02:00:00" to="2020-08-20T03:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SW" deg="215.2" name="S&#248;rvest" />
+        <windSpeed mps="2.9" name="Svak vind" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1008.4" />
+      </time>
+      <time from="2020-08-20T03:00:00" to="2020-08-20T04:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SW" deg="220.0" name="S&#248;rvest" />
+        <windSpeed mps="2.6" name="Svak vind" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1008.3" />
+      </time>
+      <time from="2020-08-20T04:00:00" to="2020-08-20T05:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SW" deg="218.2" name="S&#248;rvest" />
+        <windSpeed mps="2.1" name="Svak vind" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1008.3" />
+      </time>
+      <time from="2020-08-20T05:00:00" to="2020-08-20T06:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="209.2" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="2.9" name="Svak vind" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1008.7" />
+      </time>
+      <time from="2020-08-20T06:00:00" to="2020-08-20T07:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="213.7" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="3.0" name="Svak vind" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1008.9" />
+      </time>
+      <time from="2020-08-20T07:00:00" to="2020-08-20T08:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SW" deg="216.5" name="S&#248;rvest" />
+        <windSpeed mps="3.0" name="Svak vind" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1008.8" />
+      </time>
+      <time from="2020-08-20T08:00:00" to="2020-08-20T09:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="211.2" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="3.3" name="Svak vind" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1009.0" />
+      </time>
+      <time from="2020-08-20T09:00:00" to="2020-08-20T10:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="198.1" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="3.5" name="Lett bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1009.3" />
+      </time>
+      <time from="2020-08-20T10:00:00" to="2020-08-20T11:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="177.2" name="S&#248;r" />
+        <windSpeed mps="4.4" name="Lett bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1009.8" />
+      </time>
+      <time from="2020-08-20T11:00:00" to="2020-08-20T12:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="170.1" name="S&#248;r" />
+        <windSpeed mps="4.3" name="Lett bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1010.2" />
+      </time>
+      <time from="2020-08-20T12:00:00" to="2020-08-20T13:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="171.4" name="S&#248;r" />
+        <windSpeed mps="4.8" name="Lett bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1010.4" />
+      </time>
+      <time from="2020-08-20T13:00:00" to="2020-08-20T14:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSE" deg="164.9" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.8" name="Lett bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1010.4" />
+      </time>
+      <time from="2020-08-20T14:00:00" to="2020-08-20T15:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.2" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="173.2" name="S&#248;r" />
+        <windSpeed mps="4.8" name="Lett bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1010.5" />
+      </time>
+      <time from="2020-08-20T15:00:00" to="2020-08-20T16:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="1.3" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="161.8" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="5.1" name="Lett bris" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1010.2" />
+      </time>
+      <time from="2020-08-20T16:00:00" to="2020-08-20T17:00:00">
+        
+        <symbol name="Lett regn" number="9" numberEx="46" var="46" />
+        <precipitation maxvalue="1.3" minvalue="0" value="0.2" />
+        
+        <windDirection code="SSE" deg="162.1" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.5" name="Lett bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1010.6" />
+      </time>
+      <time from="2020-08-20T17:00:00" to="2020-08-20T18:00:00">
+        
+        <symbol name="Lett regn" number="9" numberEx="46" var="46" />
+        <precipitation maxvalue="2.2" minvalue="0" value="0.2" />
+        
+        <windDirection code="SSE" deg="167.4" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.8" name="Lett bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1010.3" />
+      </time>
+      <time from="2020-08-20T18:00:00" to="2020-08-20T19:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="0.6" minvalue="0" value="0.4" />
+        
+        <windDirection code="SSW" deg="198.5" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="6.7" name="Laber bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1010.2" />
+      </time>
+      <time from="2020-08-20T19:00:00" to="2020-08-20T20:00:00">
+        
+        <symbol name="Kraftig regn" number="10" numberEx="10" var="10" />
+        <precipitation maxvalue="1.3" minvalue="0" value="1.1" />
+        
+        <windDirection code="S" deg="183.4" name="S&#248;r" />
+        <windSpeed mps="5.8" name="Laber bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1010.1" />
+      </time>
+      <time from="2020-08-20T20:00:00" to="2020-08-20T21:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="1.2" minvalue="0" value="0.6" />
+        
+        <windDirection code="SSE" deg="166.7" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="6.2" name="Laber bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1010.0" />
+      </time>
+      <time from="2020-08-20T21:00:00" to="2020-08-20T22:00:00">
+        
+        <symbol name="Lett regn" number="9" numberEx="46" var="46" />
+        <precipitation maxvalue="1.0" minvalue="0" value="0.2" />
+        
+        <windDirection code="SSE" deg="160.3" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="7.1" name="Laber bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1010.1" />
+      </time>
+      <time from="2020-08-20T22:00:00" to="2020-08-20T23:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="0.8" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="169.2" name="S&#248;r" />
+        <windSpeed mps="6.4" name="Laber bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1010.8" />
+      </time>
+      <time from="2020-08-20T23:00:00" to="2020-08-21T00:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="0.3" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="165.2" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="5.2" name="Lett bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1011.1" />
+      </time>
+      <time from="2020-08-21T00:00:00" to="2020-08-21T01:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="0.3" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="166.4" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="5.2" name="Lett bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1011.2" />
+      </time>
+      <time from="2020-08-21T01:00:00" to="2020-08-21T02:00:00">
+        
+        <symbol name="Lett regn" number="9" numberEx="46" var="46" />
+        <precipitation maxvalue="0.3" minvalue="0" value="0.1" />
+        
+        <windDirection code="SSE" deg="168.0" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.9" name="Lett bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1011.4" />
+      </time>
+      <time from="2020-08-21T02:00:00" to="2020-08-21T03:00:00">
+        
+        <symbol name="Lett regn" number="9" numberEx="46" var="46" />
+        <precipitation maxvalue="0.3" minvalue="0" value="0.1" />
+        
+        <windDirection code="SSE" deg="166.9" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="5.1" name="Lett bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1011.2" />
+      </time>
+      <time from="2020-08-21T03:00:00" to="2020-08-21T04:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="0.3" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="169.1" name="S&#248;r" />
+        <windSpeed mps="5.3" name="Lett bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1010.8" />
+      </time>
+      <time from="2020-08-21T04:00:00" to="2020-08-21T05:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="0.2" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="168.5" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="6.0" name="Laber bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1010.6" />
+      </time>
+      <time from="2020-08-21T05:00:00" to="2020-08-21T06:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="0.2" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="161.6" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="5.7" name="Laber bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1010.2" />
+      </time>
+      <time from="2020-08-21T06:00:00" to="2020-08-21T07:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="0.3" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="165.6" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="6.2" name="Laber bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1009.9" />
+      </time>
+      <time from="2020-08-21T07:00:00" to="2020-08-21T08:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="1.5" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="160.9" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="6.7" name="Laber bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1009.8" />
+      </time>
+      <time from="2020-08-21T08:00:00" to="2020-08-21T09:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="2.4" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="164.0" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="6.5" name="Laber bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1009.9" />
+      </time>
+      <time from="2020-08-21T09:00:00" to="2020-08-21T10:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="5.0" minvalue="0" value="0.3" />
+        
+        <windDirection code="SE" deg="142.8" name="S&#248;r&#248;st" />
+        <windSpeed mps="7.5" name="Laber bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1009.0" />
+      </time>
+      <time from="2020-08-21T10:00:00" to="2020-08-21T11:00:00">
+        
+        <symbol name="Kraftig regn" number="10" numberEx="10" var="10" />
+        <precipitation maxvalue="7.8" minvalue="0.2" value="7.2" />
+        
+        <windDirection code="S" deg="169.3" name="S&#248;r" />
+        <windSpeed mps="10.2" name="Frisk bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1009.4" />
+      </time>
+      <time from="2020-08-21T11:00:00" to="2020-08-21T12:00:00">
+        
+        <symbol name="Kraftig regn" number="10" numberEx="10" var="10" />
+        <precipitation maxvalue="6.0" minvalue="0" value="4.7" />
+        
+        <windDirection code="SSE" deg="147.7" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="5.1" name="Lett bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1009.3" />
+      </time>
+      <time from="2020-08-21T12:00:00" to="2020-08-21T13:00:00">
+        
+        <symbol name="Lett regn" number="9" numberEx="46" var="46" />
+        <precipitation maxvalue="2.4" minvalue="0" value="0.2" />
+        
+        <windDirection code="SSE" deg="165.5" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="9.1" name="Frisk bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1008.4" />
+      </time>
+      <time from="2020-08-21T13:00:00" to="2020-08-21T14:00:00">
+        
+        <symbol name="Lett regn" number="9" numberEx="46" var="46" />
+        <precipitation maxvalue="1.2" minvalue="0" value="0.1" />
+        
+        <windDirection code="SSE" deg="162.5" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="6.2" name="Laber bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1008.1" />
+      </time>
+      <time from="2020-08-21T14:00:00" to="2020-08-21T15:00:00">
+        
+        <symbol name="Lett regn og torden" number="22" numberEx="30" var="30" />
+        <precipitation maxvalue="1.3" minvalue="0" value="0.2" />
+        
+        <windDirection code="SSE" deg="165.7" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="7.9" name="Laber bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1007.9" />
+      </time>
+      <time from="2020-08-21T15:00:00" to="2020-08-21T16:00:00">
+        
+        <symbol name="Lett regn og torden" number="22" numberEx="30" var="30" />
+        <precipitation maxvalue="1.6" minvalue="0" value="0.1" />
+        
+        <windDirection code="SSE" deg="158.3" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="8.4" name="Frisk bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1007.2" />
+      </time>
+    </tabular>
+  </hourly_tabular></Heddersvatn><Vegglifjell_skisenter altitude="1000" geobase="nox" geobaseid="548" latitude="60.0511" longitude="9.0049">https://www.yr.no/sted/Norge/Viken/Rollag/Vegglifjell_skisenter/<period_tabular><tabular>
+      <time from="2020-08-19T16:00:00" period="2" to="2020-08-19T18:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="2.0" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="164.5" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.3" name="Lett bris" />
+        <temperature unit="celsius" value="20" />
+        <pressure unit="hPa" value="1007.9" />
+      </time>
+      <time from="2020-08-19T18:00:00" period="3" to="2020-08-20T00:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="4.3" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="150.8" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="3.9" name="Lett bris" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1007.3" />
+      </time>
+      <time from="2020-08-20T00:00:00" period="0" to="2020-08-20T06:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="W" deg="263.9" name="Vest" />
+        <windSpeed mps="2.0" name="Svak vind" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1008.1" />
+      </time>
+      <time from="2020-08-20T06:00:00" period="1" to="2020-08-20T12:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="WNW" deg="283.9" name="Vest-nordvest" />
+        <windSpeed mps="2.4" name="Svak vind" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1008.9" />
+      </time>
+      <time from="2020-08-20T12:00:00" period="2" to="2020-08-20T18:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="2.2" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="184.0" name="S&#248;r" />
+        <windSpeed mps="3.9" name="Lett bris" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1010.0" />
+      </time>
+      <time from="2020-08-20T18:00:00" period="3" to="2020-08-21T00:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="4.5" minvalue="0" value="3.3" />
+        
+        <windDirection code="S" deg="174.3" name="S&#248;r" />
+        <windSpeed mps="3.3" name="Svak vind" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1010.3" />
+      </time>
+      <time from="2020-08-21T00:00:00" period="0" to="2020-08-21T06:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="1.3" minvalue="0" value="0" />
+        
+        <windDirection code="SSW" deg="192.9" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="5.0" name="Lett bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1011.4" />
+      </time>
+      <time from="2020-08-21T06:00:00" period="1" to="2020-08-21T12:00:00">
+        
+        <symbol name="Kraftig regn" number="10" numberEx="10" var="10" />
+        <precipitation maxvalue="13.7" minvalue="0.9" value="9.8" />
+        
+        <windDirection code="SSE" deg="162.8" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.3" name="Lett bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1010.1" />
+      </time>
+      <time from="2020-08-21T12:00:00" period="2" to="2020-08-21T18:00:00">
+        
+        <symbol name="Regn og torden" number="22" numberEx="22" var="22" />
+        <precipitation maxvalue="6.8" minvalue="0.6" value="1.7" />
+        
+        <windDirection code="SE" deg="143.6" name="S&#248;r&#248;st" />
+        <windSpeed mps="3.0" name="Svak vind" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1008.9" />
+      </time>
+      <time from="2020-08-21T20:00:00" period="3" to="2020-08-22T02:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation maxvalue="1.0" minvalue="0" value="0" />
+        
+        <windDirection code="SSW" deg="201.7" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="5.8" name="Laber bris" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1004.8" />
+      </time>
+      <time from="2020-08-22T02:00:00" period="0" to="2020-08-22T08:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="2.6" minvalue="0" value="2.3" />
+        
+        <windDirection code="SE" deg="132.9" name="S&#248;r&#248;st" />
+        <windSpeed mps="3.8" name="Lett bris" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1004.5" />
+      </time>
+      <time from="2020-08-22T08:00:00" period="1" to="2020-08-22T14:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="2.9" minvalue="0" value="2.6" />
+        
+        <windDirection code="SSE" deg="157.3" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="5.7" name="Laber bris" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1002.4" />
+      </time>
+      <time from="2020-08-22T14:00:00" period="2" to="2020-08-22T20:00:00">
+        
+        <symbol name="Regnbyger" number="5" numberEx="5" var="05d" />
+        <precipitation maxvalue="2.5" minvalue="0" value="2.1" />
+        
+        <windDirection code="SSW" deg="195.9" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="5.3" name="Lett bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1001.6" />
+      </time>
+      <time from="2020-08-22T20:00:00" period="3" to="2020-08-23T02:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="199.4" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="4.7" name="Lett bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1000.5" />
+      </time>
+      <time from="2020-08-23T02:00:00" period="0" to="2020-08-23T08:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="WSW" deg="242.6" name="Vest-s&#248;rvest" />
+        <windSpeed mps="2.8" name="Svak vind" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1000.4" />
+      </time>
+      <time from="2020-08-23T08:00:00" period="1" to="2020-08-23T14:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="176.2" name="S&#248;r" />
+        <windSpeed mps="3.1" name="Svak vind" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="999.7" />
+      </time>
+      <time from="2020-08-23T14:00:00" period="2" to="2020-08-23T20:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SW" deg="232.4" name="S&#248;rvest" />
+        <windSpeed mps="6.5" name="Laber bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="999.3" />
+      </time>
+      <time from="2020-08-23T20:00:00" period="3" to="2020-08-24T02:00:00">
+        
+        <symbol name="Klarv&#230;r" number="1" numberEx="1" var="01n" />
+        <precipitation value="0" />
+        
+        <windDirection code="WSW" deg="239.0" name="Vest-s&#248;rvest" />
+        <windSpeed mps="6.4" name="Laber bris" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1000.6" />
+      </time>
+      <time from="2020-08-24T02:00:00" period="0" to="2020-08-24T08:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="WNW" deg="289.0" name="Vest-nordvest" />
+        <windSpeed mps="4.6" name="Lett bris" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1002.7" />
+      </time>
+      <time from="2020-08-24T08:00:00" period="1" to="2020-08-24T14:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="W" deg="274.2" name="Vest" />
+        <windSpeed mps="6.3" name="Laber bris" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1003.3" />
+      </time>
+      <time from="2020-08-24T14:00:00" period="2" to="2020-08-24T20:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="WNW" deg="294.3" name="Vest-nordvest" />
+        <windSpeed mps="6.1" name="Laber bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1003.5" />
+      </time>
+      <time from="2020-08-24T20:00:00" period="3" to="2020-08-25T02:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="WSW" deg="241.6" name="Vest-s&#248;rvest" />
+        <windSpeed mps="6.0" name="Laber bris" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1003.7" />
+      </time>
+      <time from="2020-08-25T02:00:00" period="0" to="2020-08-25T08:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="W" deg="279.8" name="Vest" />
+        <windSpeed mps="4.6" name="Lett bris" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1006.4" />
+      </time>
+      <time from="2020-08-25T08:00:00" period="1" to="2020-08-25T14:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="WNW" deg="298.6" name="Vest-nordvest" />
+        <windSpeed mps="4.4" name="Lett bris" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1008.3" />
+      </time>
+      <time from="2020-08-25T14:00:00" period="2" to="2020-08-25T20:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation maxvalue="0.8" minvalue="0" value="0" />
+        
+        <windDirection code="WNW" deg="300.2" name="Vest-nordvest" />
+        <windSpeed mps="3.3" name="Svak vind" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1007.9" />
+      </time>
+      <time from="2020-08-25T20:00:00" period="3" to="2020-08-26T02:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation maxvalue="0.8" minvalue="0" value="0" />
+        
+        <windDirection code="NW" deg="314.7" name="Nordvest" />
+        <windSpeed mps="2.4" name="Svak vind" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1007.3" />
+      </time>
+      <time from="2020-08-26T02:00:00" period="0" to="2020-08-26T08:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="1.3" minvalue="0" value="0" />
+        
+        <windDirection code="W" deg="271.8" name="Vest" />
+        <windSpeed mps="2.6" name="Svak vind" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1009.2" />
+      </time>
+      <time from="2020-08-26T08:00:00" period="1" to="2020-08-26T14:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="3.4" minvalue="0" value="3.4" />
+        
+        <windDirection code="E" deg="91.6" name="&#216;st" />
+        <windSpeed mps="3.1" name="Svak vind" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1004.8" />
+      </time>
+      <time from="2020-08-26T14:00:00" period="2" to="2020-08-26T20:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="2.2" minvalue="0" value="2.2" />
+        
+        <windDirection code="ESE" deg="116.9" name="&#216;st-s&#248;r&#248;st" />
+        <windSpeed mps="3.4" name="Lett bris" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1004.6" />
+      </time>
+      <time from="2020-08-26T20:00:00" period="3" to="2020-08-27T02:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="1.1" minvalue="0" value="0" />
+        
+        <windDirection code="NW" deg="319.9" name="Nordvest" />
+        <windSpeed mps="2.0" name="Svak vind" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1007.6" />
+      </time>
+      <time from="2020-08-27T02:00:00" period="0" to="2020-08-27T08:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="NW" deg="323.0" name="Nordvest" />
+        <windSpeed mps="2.6" name="Svak vind" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1008.2" />
+      </time>
+      <time from="2020-08-27T08:00:00" period="1" to="2020-08-27T14:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="E" deg="95.2" name="&#216;st" />
+        <windSpeed mps="3.2" name="Svak vind" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1008.3" />
+      </time>
+      <time from="2020-08-27T14:00:00" period="2" to="2020-08-27T20:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="NNE" deg="33.2" name="Nord-nord&#248;st" />
+        <windSpeed mps="4.2" name="Lett bris" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1008.1" />
+      </time>
+      <time from="2020-08-27T20:00:00" period="3" to="2020-08-28T02:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="ESE" deg="101.5" name="&#216;st-s&#248;r&#248;st" />
+        <windSpeed mps="2.9" name="Svak vind" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1010.0" />
+      </time>
+      <time from="2020-08-28T02:00:00" period="0" to="2020-08-28T08:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="NNW" deg="344.3" name="Nord-nordvest" />
+        <windSpeed mps="2.9" name="Svak vind" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1009.7" />
+      </time>
+      <time from="2020-08-28T08:00:00" period="1" to="2020-08-28T14:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="NNW" deg="332.6" name="Nord-nordvest" />
+        <windSpeed mps="3.8" name="Lett bris" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1010.1" />
+      </time>
+      <time from="2020-08-28T14:00:00" period="2" to="2020-08-28T20:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="N" deg="357.8" name="Nord" />
+        <windSpeed mps="3.3" name="Svak vind" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1009.8" />
+      </time>
+    </tabular>
+  </period_tabular><hourly_tabular><tabular>
+      <time from="2020-08-19T16:00:00" to="2020-08-19T17:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="2.0" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="164.5" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.3" name="Lett bris" />
+        <temperature unit="celsius" value="20" />
+        <pressure unit="hPa" value="1007.9" />
+      </time>
+      <time from="2020-08-19T17:00:00" to="2020-08-19T18:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation maxvalue="2.3" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="171.8" name="S&#248;r" />
+        <windSpeed mps="3.7" name="Lett bris" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1007.6" />
+      </time>
+      <time from="2020-08-19T18:00:00" to="2020-08-19T19:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.9" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="150.8" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="3.9" name="Lett bris" />
+        <temperature unit="celsius" value="19" />
+        <pressure unit="hPa" value="1007.3" />
+      </time>
+      <time from="2020-08-19T19:00:00" to="2020-08-19T20:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.6" minvalue="0" value="0" />
+        
+        <windDirection code="WNW" deg="300.6" name="Vest-nordvest" />
+        <windSpeed mps="2.7" name="Svak vind" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1007.6" />
+      </time>
+      <time from="2020-08-19T20:00:00" to="2020-08-19T21:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.3" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="190.2" name="S&#248;r" />
+        <windSpeed mps="1.3" name="Flau vind" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1007.5" />
+      </time>
+      <time from="2020-08-19T21:00:00" to="2020-08-19T22:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.3" minvalue="0" value="0" />
+        
+        <windDirection code="NW" deg="324.0" name="Nordvest" />
+        <windSpeed mps="1.4" name="Flau vind" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1007.9" />
+      </time>
+      <time from="2020-08-19T22:00:00" to="2020-08-19T23:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="W" deg="271.2" name="Vest" />
+        <windSpeed mps="2.6" name="Svak vind" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1008.3" />
+      </time>
+      <time from="2020-08-19T23:00:00" to="2020-08-20T00:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="W" deg="276.4" name="Vest" />
+        <windSpeed mps="2.2" name="Svak vind" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1008.2" />
+      </time>
+      <time from="2020-08-20T00:00:00" to="2020-08-20T01:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="W" deg="263.9" name="Vest" />
+        <windSpeed mps="2.0" name="Svak vind" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1008.1" />
+      </time>
+      <time from="2020-08-20T01:00:00" to="2020-08-20T02:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation value="0" />
+        
+        <windDirection code="WSW" deg="253.3" name="Vest-s&#248;rvest" />
+        <windSpeed mps="2.4" name="Svak vind" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1008.2" />
+      </time>
+      <time from="2020-08-20T02:00:00" to="2020-08-20T03:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation value="0" />
+        
+        <windDirection code="WSW" deg="253.5" name="Vest-s&#248;rvest" />
+        <windSpeed mps="3.1" name="Svak vind" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1008.3" />
+      </time>
+      <time from="2020-08-20T03:00:00" to="2020-08-20T04:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation value="0" />
+        
+        <windDirection code="WSW" deg="254.4" name="Vest-s&#248;rvest" />
+        <windSpeed mps="3.8" name="Lett bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1008.3" />
+      </time>
+      <time from="2020-08-20T04:00:00" to="2020-08-20T05:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="W" deg="278.8" name="Vest" />
+        <windSpeed mps="2.9" name="Svak vind" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1008.3" />
+      </time>
+      <time from="2020-08-20T05:00:00" to="2020-08-20T06:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="WNW" deg="282.0" name="Vest-nordvest" />
+        <windSpeed mps="2.3" name="Svak vind" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1008.6" />
+      </time>
+      <time from="2020-08-20T06:00:00" to="2020-08-20T07:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="WNW" deg="283.9" name="Vest-nordvest" />
+        <windSpeed mps="2.4" name="Svak vind" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1008.9" />
+      </time>
+      <time from="2020-08-20T07:00:00" to="2020-08-20T08:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02d" />
+        <precipitation value="0" />
+        
+        <windDirection code="WNW" deg="288.4" name="Vest-nordvest" />
+        <windSpeed mps="2.5" name="Svak vind" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1008.9" />
+      </time>
+      <time from="2020-08-20T08:00:00" to="2020-08-20T09:00:00">
+        
+        <symbol name="Lettskyet" number="2" numberEx="2" var="02d" />
+        <precipitation value="0" />
+        
+        <windDirection code="W" deg="270.2" name="Vest" />
+        <windSpeed mps="2.8" name="Svak vind" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1009.0" />
+      </time>
+      <time from="2020-08-20T09:00:00" to="2020-08-20T10:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="WSW" deg="239.7" name="Vest-s&#248;rvest" />
+        <windSpeed mps="2.1" name="Svak vind" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1009.2" />
+      </time>
+      <time from="2020-08-20T10:00:00" to="2020-08-20T11:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="200.4" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="3.1" name="Svak vind" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1009.5" />
+      </time>
+      <time from="2020-08-20T11:00:00" to="2020-08-20T12:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="187.5" name="S&#248;r" />
+        <windSpeed mps="3.5" name="Lett bris" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1009.9" />
+      </time>
+      <time from="2020-08-20T12:00:00" to="2020-08-20T13:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="184.0" name="S&#248;r" />
+        <windSpeed mps="3.9" name="Lett bris" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1010.0" />
+      </time>
+      <time from="2020-08-20T13:00:00" to="2020-08-20T14:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="180.4" name="S&#248;r" />
+        <windSpeed mps="4.1" name="Lett bris" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1010.2" />
+      </time>
+      <time from="2020-08-20T14:00:00" to="2020-08-20T15:00:00">
+        
+        <symbol name="Delvis skyet" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="178.0" name="S&#248;r" />
+        <windSpeed mps="4.3" name="Lett bris" />
+        <temperature unit="celsius" value="16" />
+        <pressure unit="hPa" value="1010.3" />
+      </time>
+      <time from="2020-08-20T15:00:00" to="2020-08-20T16:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.2" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="176.1" name="S&#248;r" />
+        <windSpeed mps="3.8" name="Lett bris" />
+        <temperature unit="celsius" value="17" />
+        <pressure unit="hPa" value="1010.1" />
+      </time>
+      <time from="2020-08-20T16:00:00" to="2020-08-20T17:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="0.7" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="170.8" name="S&#248;r" />
+        <windSpeed mps="5.1" name="Lett bris" />
+        <temperature unit="celsius" value="16" />
+        <pressure unit="hPa" value="1010.1" />
+      </time>
+      <time from="2020-08-20T17:00:00" to="2020-08-20T18:00:00">
+        
+        <symbol name="Skyet" number="4" numberEx="4" var="04" />
+        <precipitation maxvalue="1.1" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="190.7" name="S&#248;r" />
+        <windSpeed mps="4.1" name="Lett bris" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1010.3" />
+      </time>
+      <time from="2020-08-20T18:00:00" to="2020-08-20T19:00:00">
+        
+        <symbol name="Lett regn" number="9" numberEx="46" var="46" />
+        <precipitation maxvalue="1.3" minvalue="0" value="0.2" />
+        
+        <windDirection code="S" deg="174.3" name="S&#248;r" />
+        <windSpeed mps="3.3" name="Svak vind" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1010.3" />
+      </time>
+      <time from="2020-08-20T19:00:00" to="2020-08-20T20:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="2.3" minvalue="0" value="0.9" />
+        
+        <windDirection code="S" deg="176.6" name="S&#248;r" />
+        <windSpeed mps="3.9" name="Lett bris" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1010.1" />
+      </time>
+      <time from="2020-08-20T20:00:00" to="2020-08-20T21:00:00">
+        
+        <symbol name="Kraftig regn" number="10" numberEx="10" var="10" />
+        <precipitation maxvalue="1.3" minvalue="0" value="1.1" />
+        
+        <windDirection code="SSW" deg="202.4" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="3.2" name="Svak vind" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1010.0" />
+      </time>
+      <time from="2020-08-20T21:00:00" to="2020-08-20T22:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="1.3" minvalue="0" value="0.4" />
+        
+        <windDirection code="S" deg="185.4" name="S&#248;r" />
+        <windSpeed mps="5.4" name="Lett bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1010.5" />
+      </time>
+      <time from="2020-08-20T22:00:00" to="2020-08-20T23:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="0.9" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="188.7" name="S&#248;r" />
+        <windSpeed mps="6.7" name="Laber bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1010.8" />
+      </time>
+      <time from="2020-08-20T23:00:00" to="2020-08-21T00:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="0.5" minvalue="0" value="0" />
+        
+        <windDirection code="SSW" deg="203.8" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="5.0" name="Lett bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1011.2" />
+      </time>
+      <time from="2020-08-21T00:00:00" to="2020-08-21T01:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="0.2" minvalue="0" value="0" />
+        
+        <windDirection code="SSW" deg="192.9" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="5.0" name="Lett bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1011.4" />
+      </time>
+      <time from="2020-08-21T01:00:00" to="2020-08-21T02:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="0.3" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="190.3" name="S&#248;r" />
+        <windSpeed mps="4.1" name="Lett bris" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1011.5" />
+      </time>
+      <time from="2020-08-21T02:00:00" to="2020-08-21T03:00:00">
+        
+        <symbol name="Lett regn" number="9" numberEx="46" var="46" />
+        <precipitation maxvalue="0.2" minvalue="0" value="0.1" />
+        
+        <windDirection code="S" deg="189.0" name="S&#248;r" />
+        <windSpeed mps="3.9" name="Lett bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1011.4" />
+      </time>
+      <time from="2020-08-21T03:00:00" to="2020-08-21T04:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="0.3" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="186.0" name="S&#248;r" />
+        <windSpeed mps="3.6" name="Lett bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1011.0" />
+      </time>
+      <time from="2020-08-21T04:00:00" to="2020-08-21T05:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="0.2" minvalue="0" value="0" />
+        
+        <windDirection code="SSW" deg="192.9" name="S&#248;r-s&#248;rvest" />
+        <windSpeed mps="4.0" name="Lett bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1010.7" />
+      </time>
+      <time from="2020-08-21T05:00:00" to="2020-08-21T06:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="0.2" minvalue="0" value="0" />
+        
+        <windDirection code="S" deg="178.9" name="S&#248;r" />
+        <windSpeed mps="4.7" name="Lett bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1010.4" />
+      </time>
+      <time from="2020-08-21T06:00:00" to="2020-08-21T07:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="0.2" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="162.8" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.3" name="Lett bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1010.1" />
+      </time>
+      <time from="2020-08-21T07:00:00" to="2020-08-21T08:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="0.5" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="161.1" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="4.3" name="Lett bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1010.0" />
+      </time>
+      <time from="2020-08-21T08:00:00" to="2020-08-21T09:00:00">
+        
+        <symbol name="T&#229;ke" number="15" numberEx="15" var="15" />
+        <precipitation maxvalue="1.0" minvalue="0" value="0" />
+        
+        <windDirection code="SSE" deg="157.0" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="3.7" name="Lett bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1010.0" />
+      </time>
+      <time from="2020-08-21T09:00:00" to="2020-08-21T10:00:00">
+        
+        <symbol name="Regn" number="9" numberEx="9" var="09" />
+        <precipitation maxvalue="4.2" minvalue="0" value="0.3" />
+        
+        <windDirection code="SE" deg="136.0" name="S&#248;r&#248;st" />
+        <windSpeed mps="3.2" name="Svak vind" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1009.5" />
+      </time>
+      <time from="2020-08-21T10:00:00" to="2020-08-21T11:00:00">
+        
+        <symbol name="Kraftig regn" number="10" numberEx="10" var="10" />
+        <precipitation maxvalue="5.1" minvalue="0" value="3.4" />
+        
+        <windDirection code="SSE" deg="148.1" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="3.9" name="Lett bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1009.3" />
+      </time>
+      <time from="2020-08-21T11:00:00" to="2020-08-21T12:00:00">
+        
+        <symbol name="Kraftig regn" number="10" numberEx="10" var="10" />
+        <precipitation maxvalue="6.6" minvalue="0.1" value="6.5" />
+        
+        <windDirection code="S" deg="177.7" name="S&#248;r" />
+        <windSpeed mps="6.7" name="Laber bris" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1009.8" />
+      </time>
+      <time from="2020-08-21T12:00:00" to="2020-08-21T13:00:00">
+        
+        <symbol name="Kraftig regn" number="10" numberEx="10" var="10" />
+        <precipitation maxvalue="2.5" minvalue="0" value="1.1" />
+        
+        <windDirection code="SE" deg="143.6" name="S&#248;r&#248;st" />
+        <windSpeed mps="3.0" name="Svak vind" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1008.9" />
+      </time>
+      <time from="2020-08-21T13:00:00" to="2020-08-21T14:00:00">
+        
+        <symbol name="Lett regn" number="9" numberEx="46" var="46" />
+        <precipitation maxvalue="0.9" minvalue="0" value="0.1" />
+        
+        <windDirection code="S" deg="179.5" name="S&#248;r" />
+        <windSpeed mps="4.7" name="Lett bris" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1008.6" />
+      </time>
+      <time from="2020-08-21T14:00:00" to="2020-08-21T15:00:00">
+        
+        <symbol name="Lett regn" number="9" numberEx="46" var="46" />
+        <precipitation maxvalue="0.9" minvalue="0" value="0.1" />
+        
+        <windDirection code="SSE" deg="161.7" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="7.3" name="Laber bris" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1008.3" />
+      </time>
+      <time from="2020-08-21T15:00:00" to="2020-08-21T16:00:00">
+        
+        <symbol name="Lett regn og torden" number="22" numberEx="30" var="30" />
+        <precipitation maxvalue="2.1" minvalue="0" value="0.1" />
+        
+        <windDirection code="SSE" deg="165.2" name="S&#248;r-s&#248;r&#248;st" />
+        <windSpeed mps="6.1" name="Laber bris" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1007.6" />
+      </time>
+    </tabular>
+  </hourly_tabular></Vegglifjell_skisenter></sites>

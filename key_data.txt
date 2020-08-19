@@ -1,0 +1,20 @@
+Dataset {
+    Grid {
+     ARRAY:
+        Float64 longitude[y = 1][x = 1];
+     MAPS:
+        Float64 y[y = 1];
+        Float64 x[x = 1];
+    } longitude;
+} metpparchive/2020/03/26/met_analysis_1_0km_nordic_20200326T12Z.nc;
+---------------------------------------------
+longitude.longitude[1][1]
+[0], 8.727916114512027
+
+longitude.y[1]
+-335322.0
+
+longitude.x[1]
+-350442.19999999995
+
+
